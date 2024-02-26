@@ -44,12 +44,4 @@ Explore adding scientific functions, memory storage, or any other features to en
 Contributions
 Contributions are encouraged! Whether you're a beginner or experienced developer, feel free to submit pull requests, report bugs, or suggest improvements.
 
-Learning Resources
-If you are new to Android development, check out the following resources to enhance your skills:
-
-Android Developer Guide
-Android Developers YouTube Channel
-License
-This Simple Calculator App for Android is open-source and available under the MIT License.
-
 Enjoy building your own calculator app! If you encounter any issues or have suggestions for improvement, please create an issue.
